@@ -92,9 +92,3 @@ I am a proactive Embedded Developer and Electronic Engineering student at UTN-FR
     <img src="https://img.shields.io/badge/Donate-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" />
   </a>
 </p>
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=ExeMagni&icon=0&color=0" alt="Profile Views" />
-  </a>
-</p>
